@@ -1,2 +1,2 @@
 # ft_linear_regression
-Librairy less linear regression with gradient descent.
+Libraryless linear regression with gradient descent.
